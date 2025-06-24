@@ -1,0 +1,19 @@
+.display{
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: black;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
